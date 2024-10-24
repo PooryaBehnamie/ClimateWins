@@ -19,19 +19,19 @@ For this project, the following datasets were used:
 
 1. **Weather Conditions Dataset**  
    Downloaded from Kaggle, this dataset includes images of various weather conditions such as sunny, cloudy, rainy, and snowy.  
-   [Download the dataset here](https://www.kaggle.com/datasets/USERNAME/weather-dataset)
+   [Download the dataset here](https://www.kaggle.com/datasets/pratik2901/multiclass-weather-dataset)
 
-2. **Handwritten Digits (MNIST)**  
-   The MNIST dataset was used to train and test handwriting recognition models. This dataset contains images of handwritten digits from 0 to 9.  
-   [Download the dataset here](http://yann.lecun.com/exdb/mnist/)
-
-3. **European Historical Weather Data**  
+2. **European Historical Weather Data**  
    This dataset includes historical weather data from various European cities used for training and testing weather prediction models.  
-   [Download the dataset here](https://www.kaggle.com/datasets/USERNAME/european-historical-weather-data)
+   [Download the dataset here](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)
 
-4. **Synthetic Weather Images for GAN Training**  
-   A set of synthetic weather images generated for training Generative Adversarial Networks (GANs).  
-   [Download the dataset here](https://www.kaggle.com/datasets/USERNAME/synthetic-weather-images)
+3. **Handwritten Digits (MNIST)**  
+   The MNIST dataset was used to train and test handwriting recognition models. This dataset contains images of handwritten digits from 0 to 9.  
+   [Download the dataset here](https://en.wikipedia.org/wiki/MNIST_database)
+
+4. **Answers Dataset for Pleasant Weather Prediction**  
+   Provided by Career Foundry, this dataset labels "pleasant" days as `1` and "unpleasant" days as `0`. It was used to evaluate different machine      learning models for predicting pleasant weather based on weather observations.  
+   *(This dataset is proprietary and not publicly available for download.)*
 
 Please ensure to cite the dataset sources if you use them for further research or projects.
 
