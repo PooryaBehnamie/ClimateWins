@@ -13,6 +13,27 @@ Photo by ChatGPT
 * Generate possibilities for future weather conditions over the next 25 to 50 years.
 * Identify the safest places for people to live in Europe over the next 25 to 50 years.
 
+## **Dataset**
+
+For this project, the following datasets were used:
+
+1. **Weather Conditions Dataset**  
+   Downloaded from Kaggle, this dataset includes images of various weather conditions such as sunny, cloudy, rainy, and snowy.  
+   [Download the dataset here](https://www.kaggle.com/datasets/USERNAME/weather-dataset)
+
+2. **Handwritten Digits (MNIST)**  
+   The MNIST dataset was used to train and test handwriting recognition models. This dataset contains images of handwritten digits from 0 to 9.  
+   [Download the dataset here](http://yann.lecun.com/exdb/mnist/)
+
+3. **European Historical Weather Data**  
+   This dataset includes historical weather data from various European cities used for training and testing weather prediction models.  
+   [Download the dataset here](https://www.kaggle.com/datasets/USERNAME/european-historical-weather-data)
+
+4. **Synthetic Weather Images for GAN Training**  
+   A set of synthetic weather images generated for training Generative Adversarial Networks (GANs).  
+   [Download the dataset here](https://www.kaggle.com/datasets/USERNAME/synthetic-weather-images)
+
+Please ensure to cite the dataset sources if you use them for further research or projects.
 
 ## **Achievements Summary**
 
